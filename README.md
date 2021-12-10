@@ -1,0 +1,2 @@
+# goEmail
+Send email package.
